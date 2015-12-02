@@ -7,4 +7,4 @@
 
 
 <br>
-![](https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/a.gif)
+![](https://github.com/simaben/LoginEditText/blob/master/screenshot/a.gif)
