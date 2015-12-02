@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ClearEditText">
+        <attr name="mode">
+            <enum name="clear" value="0" />
+            <enum name="pwd" value="1" />
+        </attr>
+    </declare-styleable>
+</resources>
